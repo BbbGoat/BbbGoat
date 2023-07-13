@@ -1,6 +1,8 @@
 ### 반갑습니다! 👋
 
-흑염소의 작고 소중한 개발 저장소
+Hi there! I'm frontend developer using Web.
+I hope to develop every beautiful things.✨
+
 
 ### 🌱 TECH STACK 🌱
 
