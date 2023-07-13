@@ -9,8 +9,7 @@ I hope to develop every beautiful things.✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BbbGoat&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 CONTACT 📫
-
-<img src="https://img.shields.io/badge/oomi9421@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="oomi9421@gmail.com"><img src="https://img.shields.io/badge/oomi9421@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
 <!--
