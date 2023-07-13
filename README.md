@@ -1,4 +1,4 @@
-<h1> 👋 WELCOME 👋</h1>
+### 👋 WELCOME 👋
 
 안녕하세요! 프론트엔드 개발자 우새미입니다.<br>
 뭐든간에 열심히 공부하고 이것저것 만들어 봅니다.<br>
@@ -28,6 +28,7 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
 
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BbbGoat&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
