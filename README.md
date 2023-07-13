@@ -5,8 +5,12 @@
 깃허브에는 포트폴리오와 공부중인 것을 정리해 올립니다. 편히 둘러보세요!😇<br>
 
 
-### 🌱 TECH STACK 🌱
+#### <a href="https://bbbgoat.github.io/Studio-app/">📌 가장 최근 작업한 것!</a>
+<br>
 
+
+
+### 🌱 TECH STACK 🌱
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
