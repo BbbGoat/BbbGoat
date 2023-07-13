@@ -1,8 +1,11 @@
 ### 반갑습니다! 👋
 
-작고 소중한 개발 저장소
+흑염소의 작고 소중한 개발 저장소
 
+### 🌱 TECH STACK 🌱
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BbbGoat&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 CONTACT 📫
 
 
 <!--
