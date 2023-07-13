@@ -3,6 +3,9 @@
 흑염소의 작고 소중한 개발 저장소
 
 ### 🌱 TECH STACK 🌱
+
+<a href="gmail.com" target="_blank"><img src="https://img.shields.io/badge/oomi9421@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BbbGoat&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 CONTACT 📫
