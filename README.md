@@ -35,7 +35,7 @@
 
 
 ### 📫 CONTACT 📫
-<img src="https://img.shields.io/badge/oomi9421@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="https://velog.io/@bbbgoat"><img src="https://img.shields.io/badge/bbbgoat-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/oomi9421@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 
 <!--
